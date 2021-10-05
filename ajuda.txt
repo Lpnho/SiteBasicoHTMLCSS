@@ -1,0 +1,30 @@
+Icones para o Site:
+
+<i class="fas fa-hamburger"></i>
+<i class="fas fa-dumbbell"></i>
+<i class="fas fa-swimming-pool"></i>
+<i class="fas fa-parking"></i>
+<i class="fas fa-car-side"></i>
+<i class="fas fa-globe"></i>
+<i class="fas fa-wifi"></i>
+
+<i class="fas fa-th-large"></i>
+<i class="fas fa-search"></i>
+
+<i class="fas fa-arrow-right"></i>
+
+Fontes para o Site:
+
+font-family: 'Lato', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Yaldevi', sans-serif;
+font-family: 'Manrope', sans-serif
+font-family: 'Baloo 2', cursive;
+
+
+Site inspirado:
+https://dribbble.com/shots/15871130/attachments/7695403?mode=media
+
+Cores:
+#4A2100
+#381D04
